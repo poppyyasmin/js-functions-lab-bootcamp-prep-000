@@ -2,6 +2,8 @@ function happyHolidays() {
   return `Happy holidays!`
 }
 
+var name = Poppy
+
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}`
 }
